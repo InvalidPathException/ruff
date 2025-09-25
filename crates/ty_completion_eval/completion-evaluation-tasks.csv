@@ -1,0 +1,11 @@
+name,file,index,rank
+scope-simple-long-identifier,/tmp/ty-completion-eval/scope-simple-long-identifier/main.py,0,140
+scope-prioritize-closer,/tmp/ty-completion-eval/scope-prioritize-closer/main.py,0,152
+type-var-typing-over-ast,/tmp/ty-completion-eval/type-var-typing-over-ast/main.py,0,65
+type-var-typing-over-ast,/tmp/ty-completion-eval/type-var-typing-over-ast/main.py,1,353
+ty-extensions-lower-stdlib,/tmp/ty-completion-eval/ty-extensions-lower-stdlib/main.py,0,142
+scope-existing-over-new-import,/tmp/ty-completion-eval/scope-existing-over-new-import/main.py,0,495
+internal-typeshed-hidden,/tmp/ty-completion-eval/internal-typeshed-hidden/main.py,0,5
+object-attr-instance-methods,/tmp/ty-completion-eval/object-attr-instance-methods/main.py,0,7
+object-attr-instance-methods,/tmp/ty-completion-eval/object-attr-instance-methods/main.py,1,1
+raise-uses-base-exception,/tmp/ty-completion-eval/raise-uses-base-exception/main.py,0,42
